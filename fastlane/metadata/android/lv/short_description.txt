@@ -1,1 +1,1 @@
-A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili freely.
+FLOSS (Bezmaksas/brīva un atvērtā pirmkoda programmatūra) Android lietotne, kas ļauj brīvi pārlūkot YouTube, NicoNico un BiliBili.
