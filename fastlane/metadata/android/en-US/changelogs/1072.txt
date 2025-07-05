@@ -15,4 +15,3 @@
 ### UI
 
 - Update Spanish translation
-

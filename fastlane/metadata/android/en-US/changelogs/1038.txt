@@ -14,4 +14,3 @@
 
 - Making "show channel details" slightly faster
 - Improve the speed for searching (BiliBili)
-

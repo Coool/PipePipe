@@ -18,4 +18,3 @@
 ### Others
 
 - Improve Simplified Chinese translation
-

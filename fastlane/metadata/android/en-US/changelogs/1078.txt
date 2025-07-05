@@ -13,5 +13,4 @@
 - Failed to parse some channels (YouTube) 
 - Suicide/self-harm contents won't load (YouTube)
 - Some meta info are not parsed correctly (YouTube)
-- Error parsing some comments(BiliBili) 
-
+- Error parsing some comments(BiliBili)

@@ -22,4 +22,3 @@
 
 - Fix a bug which makes UI laggy and drains the battery
 - Improve the speed of network requests
-

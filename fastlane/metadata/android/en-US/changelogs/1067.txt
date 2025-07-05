@@ -4,4 +4,3 @@
 - Random fail when loading videos (YouTube)
 - Missing subtitle, segment, live chat(YouTube)
 - Player error after switching network (YouTube)
-

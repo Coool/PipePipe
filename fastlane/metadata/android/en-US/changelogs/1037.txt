@@ -7,4 +7,3 @@
 - 'Account' Icon Incorrect Colour with Dark Theme Enabled [GitHub #142]
 - Icon of bullet comment status is not showed correctly
 - Unable to view multi-p video (BiliBili) [GitHub #148]
-

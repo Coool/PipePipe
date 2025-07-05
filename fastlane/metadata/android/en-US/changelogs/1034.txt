@@ -9,4 +9,3 @@
 - Support auto enqueue next partition and avoid use partitions as related items
 - Only 1 page of search results are shown(BiliBili)
 - HTML strings in search results are not decoded (BiliBili)
-

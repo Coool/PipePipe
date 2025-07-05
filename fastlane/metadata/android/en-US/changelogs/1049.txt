@@ -12,4 +12,4 @@
 - Unexpected expection when searching for lives(NicoNico)
 - No bullet comments for lives(BiliBili)
 
-...And all the new features, fixes from 3.4.0 if you haven't upgraded yet :)
+…And all the new features, fixes from 3.4.0 if you haven't upgraded yet :)

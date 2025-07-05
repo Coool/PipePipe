@@ -1,4 +1,3 @@
 fix: wrong resolution is showed(BiliBili, NicoNico)
 fix: like count is not showing and throwing error(Youtube)
 fix: channel is not showing videos(Youtube)
-

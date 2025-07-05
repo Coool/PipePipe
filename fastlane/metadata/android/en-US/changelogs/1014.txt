@@ -15,4 +15,3 @@ fix: unexpected crash sometimes, especially when background playing
 fix: can not load any captions
 
 perf: slightly improve loading speed by not converting captions(BiliBili)
-

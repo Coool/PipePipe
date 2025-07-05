@@ -12,4 +12,4 @@
 
 - Make show future preference also work for feeds
 - Support open background queue by long pressing the play/pause button in the bottom play bar
-- Support duration filters(NicoNico) 
+- Support duration filters(NicoNico)
