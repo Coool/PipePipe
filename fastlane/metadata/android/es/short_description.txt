@@ -1,1 +1,1 @@
-A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili freely.
+Una aplicación FLOSS para Android que te permite navegar libremente por Youtube, NicoNico y BiliBili.
