@@ -1,0 +1,3 @@
+Corrección: Se mostraba una resolución errónea (BiliBili y NicoNico)
+Corrección: La cuenta de «me gustas» no se mostraban y lanzaba un error (Youtube)
+Corrección: Los canales no mostraban videos (Youtube)

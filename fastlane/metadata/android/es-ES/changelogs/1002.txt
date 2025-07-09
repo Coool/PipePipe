@@ -1,0 +1,4 @@
+Corrección: No podía reproducir ningún directo de BiliBili
+Corrección: No podía extraer ningún canal (BiliBili)
+Corrección: Los directos no se mostraban en la página del canal (BiliBili)
+Refactorización: Mostrar «desactivado» en lugar de «error» en los comentarios de los directos (BiliBili)

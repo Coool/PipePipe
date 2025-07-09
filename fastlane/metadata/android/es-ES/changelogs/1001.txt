@@ -1,0 +1,1 @@
+Funcionalidad: Ajustado y mezclado de upstream #8837 (Infraestructura del filtro de contenido)

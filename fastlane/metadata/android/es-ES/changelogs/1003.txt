@@ -1,0 +1,2 @@
+Funcionalidad: Añadido ordenación de listas de reproducción (de upstream PR #8221)
+Funcionalidad: Añadido borrado de duplicados de las listas de reproducción locales (de upstream PR #7703)

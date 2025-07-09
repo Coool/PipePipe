@@ -1,0 +1,2 @@
+Funcionalidad: Añadida apertura de listas de reproducción de NicoNico a través de URL.
+Corrección: Cierre inesperado en ciertas situaciones relacionadas con la pantalla completa

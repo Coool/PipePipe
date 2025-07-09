@@ -1,0 +1,2 @@
+UI: cambio de nombre e icono en la página de selección de servicio para BiliBili y NicoNico.
+Corrección: algunos dispositivos no podían extraer ningún video AV (BiliBili)
