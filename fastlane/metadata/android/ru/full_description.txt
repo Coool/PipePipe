@@ -1,4 +1,4 @@
-NewPipe, reimagined: faster, more stable, and packed with more features.
+Свободное приложение чтобы свободно просматривать YouTube, Niconico и Bilibili. Основан на NewPipe, но лучше.
 
 ** Beyond NewPipe **
 
