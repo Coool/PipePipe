@@ -1,15 +1,15 @@
-NewPipe, reimagined: faster, more stable, and packed with more features.
+Uzlabots NewPipe: ātrāks, stabilāks un ar daudz vairāk funkcijām.
 
-** Beyond NewPipe **
+** Pārāks funkcionalitāte nekā NewPipe **
 
-* SponsorBlock (YouTube & BiliBili)
-* ReturnYouTubeDislike
-* Bullet comments / Live Chats
-* Search filters
-* Search & sort in local playlists
-* Filter out unwanted items by keywords/channels/...
-* Music player mode & Background playing
-* Sleep timer
-* Fullscreen gestures
-* Login to watch restricted / premium contents
-* ... and many minor improvements
+* SponsorBlock – reklāmas bloķētājs (YouTube un BiliBili)
+* ReturnYouTubeDislike – nepatīk balsojuma uzskaite
+* Komentāri un tiešraides sarunas
+* Meklēšanas filtri
+* Meklēt un kārtot vietējos atskaņošanas sarakstus
+* Filtrēt nevēlamus vienumus pēc atslēgvārdiem/kanāliem/…
+* Mūzikas atskaņotāja režīms un atskaņošana fonā
+* Miega taimeris
+* Pilnekrāna žesti
+* Iespēja autorizēties, lai varētu skatīties ierobežotu / premium saturu
+* … un daudzi nelieli uzlabojumi
